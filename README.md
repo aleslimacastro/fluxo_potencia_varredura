@@ -1,2 +1,7 @@
-# fluxo_potencia_varredura
-Calculo do Fluxo de Potencia pelo Metodo da Varredura e compara com Newton-Raphson
+# Fluxo de Potência pelo Método da Varredura
+
+Calculo do Fluxo de Potencia pelo Metodo da Varredura e comparação com Newton-Raphson
+
+Versão em Python do código em Matlab(R) disponibilizado por Boran Morvaj File Exchange da Mathworks
+http://www.mathworks.com/matlabcentral/fileexchange/49797-forward-backward-sweep-load-flow-method-for-radial-distribution-networks?focused=3863455&tab=function
+
